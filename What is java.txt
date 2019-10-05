@@ -1,0 +1,17 @@
+Java is a programming language that produces software for multiple platforms. 
+When a programmer writes a Java application, the compiled code (known as bytecode) 
+runs on most operating systems (OS), including Windows, Linux and Mac OS. 
+Java derives much of its syntax from the C and C++ programming languages.
+
+Java was developed in the mid-1990s by James A. Gosling, a former computer scientist 
+with Sun Microsystems.
+
+It is a widely used programming language expressly designed for use in the distributed 
+environment of the internet.
+Java can be used to create complete applications that may run on a single computer or be 
+distributed among servers and clients in a network.
+
+There are many places where Java is used in real world, starting from commercial 
+e-commerce website to android apps, from scientific application to financial applications 
+like electronic trading systems, from games like Minecraft to desktop applications like Eclipse, 
+Netbeans, and IntelliJ, from an open source library .
