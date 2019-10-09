@@ -1,0 +1,6 @@
+JDK stands for Java Development Kit. It contains the tools and libraries
+for development of Java programs. It also contains compilers and debuggers 
+needed to compile Java program.
+
+JRE stands for Java Run time Environment. This is contained in JDK.
+JRE provides libraries and JVM that is requried to run Java program.
