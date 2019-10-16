@@ -1,0 +1,10 @@
+Object Oriented Programming languages like Java and C++ follow
+concepts of OOPS like- Encapsulation, Abstraction, Polymorphism
+and Inheritance etc.
+Object Based Programming languages follow some features of
+OOPS but they do not provide support for Polymorphism and
+Inheritance. Egg. JavaScript, VBScript etc.
+Object Based Programming languages provide support for Objects
+and you can build objects from constructor. They languages also
+support Encapsulation. These are also known as Prototype-oriented
+languages.
