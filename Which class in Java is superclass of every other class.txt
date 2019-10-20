@@ -1,0 +1,2 @@
+Java is an object oriented programming language. In Java, Object
+class is the superclass of every other class.
