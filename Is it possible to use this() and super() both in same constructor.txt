@@ -1,0 +1,3 @@
+No, Java does not allow using both super() and this() in same
+constructor. As per Java specification, super() or this() must be the
+first statement in a constructor.
