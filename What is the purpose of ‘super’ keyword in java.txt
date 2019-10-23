@@ -1,0 +1,6 @@
+super’ keyword is used in the methods or constructor of a child
+class. It refers to immediate parent class of an object.
+By using ‘super’ we can call a method of parent class from the
+method of a child class.
+We can also call the constructor of a parent class from the
+constructor of a child class by using ‘super’ keyword.
