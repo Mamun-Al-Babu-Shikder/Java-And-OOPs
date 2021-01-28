@@ -1,0 +1,7 @@
+If we have methods with same signature (same name, same signature, same return type) in super class
+and subclass then we say
+subclass method is overridden by superclass.
+When to use overriding in java
+If we want same method with different behaviour in superclass and subclass then we go for overriding.
+When we call overridden method with subclass reference subclass method is called hiding the superclass
+method.
