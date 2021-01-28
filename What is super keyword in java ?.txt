@@ -1,0 +1,11 @@
+Variables and methods of super class can be overridden in subclass . In case of overriding , a subclass
+object call its own variables and methods. Subclass cannot access the variables and methods of
+superclass because the overridden variables or methods hides the methods and variables of super class.
+But still java provides a way to access super class members even if its members are overridden. Super is
+used to access superclass variables, methods, constructors.
+Super can be used in two forms :
+1)
+First form is for calling super class constructor.
+2)
+Second one is to call super class variables,methods.
+Super if present must be the first statement.
