@@ -1,0 +1,15 @@
+# Method Overloading
+1) Method Overloading occurs with in the same class
+2) Since it involves with only one class inheritance is not involved.
+3) In overloading return type need not be the same
+4) Parameters must be different when we do overloading
+5) Static polymorphism can be acheived using method overloading
+6) In overloading one method can’t hide the another
+
+# Method Overriding
+1) Method Overriding occurs between two classes superclass and subclass
+2) Since method overriding occurs between superclass and subclass inheritance is involved.
+3) In overriding return type must be same.
+4) Parameters must be same.
+5) Dynamic polymorphism can be acheived using method overriding.
+6) In overriding subclass method hides that of the superclass method.
