@@ -1,0 +1,9 @@
+A class having two or more methods with same name but with different arguments then we say that those
+methods are overloaded. Static polymorphism is achieved in java using method overloading.
+Method overloading is used when we want the methods to perform similar tasks but with different inputs
+or values. When an overloaded method is invoked java first checks the method name, and the number of
+arguments ,type of arguments; based on this compiler executes this method.
+Compiler decides which method to call at compile time. By using overloading static polymorphism or static
+binding can be achieved in java.
+Note : Return type is not part of method signature. we may have methods with different return types but
+return type alone is not sufficient to call a method in java.
