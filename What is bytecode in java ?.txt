@@ -1,0 +1,3 @@
+When a javac compiler compiler compiles a class it generates .class file. This .class file contains set of
+instructions called byte code. Byte code is a machine independent language and contains set of
+instructions which are to be executed only by JVM. JVM can understand this byte codes.
