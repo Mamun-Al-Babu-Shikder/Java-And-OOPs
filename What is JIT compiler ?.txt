@@ -1,0 +1,3 @@
+JIT compiler stands for Just in time compiler. JIT compiler compiles byte code in to executable code .
+JIT a part of JVM .JIT cannot convert complete java program in to executable code it converts as and
+when it is needed during execution.
